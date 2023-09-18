@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Belajar Android</string>
+    <string name="nameEditText">Nama Mahasiswa</string>
+    <string name="buttonButton">Button</string>
+    <string name="buttonTextView">Halo %1$s</string>
+    <string-array name="names">
+        <item>Fadley</item>
+        <item>Setiawan</item>
+    </string-array>
+</resources>
